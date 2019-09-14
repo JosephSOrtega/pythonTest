@@ -23,3 +23,17 @@ print("No type coercion. Fascinating\n"
       "Your first non-indented line terminates your if else. Also end if and else main statement with an :"
       "Flow of Control")
 
+print("if you put a ? after function it tells you about it (maybe)")
+
+print("def is calling soemthing a func"
+      "1 - def"
+      "2 - name in snake case"
+      "3 - parameter in parentheses"
+      "4 - body of func"
+      "5 - return"
+      
+      "Ex: def add_one(x):"
+      "         result = x+1"
+      "         return result")
+print("No need for () in if statements!")
+

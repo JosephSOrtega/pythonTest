@@ -30,19 +30,19 @@ apples = "delicious"
 arr = [1,3,5,2,7]
 
 
-if(doing_python_right_now == True):
+if doing_python_right_now == True:
     print("Yay Python! Practice makes permanent")
-if(on_mars_right_now):
+if on_mars_right_now:
     print("How long do you plan to stay on Mars?")
 else:
     print("I'm glad we're on Spaceship Earth.")
 
 
 
-if(is_raining == True):
+if is_raining == True:
     print("Bring an umbrella")
 
-if(apples == "delicious"):
+if apples == "delicious":
         print ("of course")
 else:
         print ("YOU LIE")
@@ -50,3 +50,20 @@ print ("ended statement")
 print(arr)
 arr.sort()
 print(arr)
+print(sum(arr))
+print(len(arr))
+
+
+def add_one(x):
+    result = x+1
+    return result
+print(add_one(3))
+
+
+def times_two_plus_three(numberHere):
+    return numberHere * 2 + 3
+print(times_two_plus_three(10))
+
+def identity(name):
+    return name
+print(identity("me"))

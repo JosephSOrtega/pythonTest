@@ -19,7 +19,21 @@ print("Types of machine learning\n\n" +
                    "   - Algorithm B is setup as a critic to tell algorithm Bif its doing a good/bad job")
 
 print("No type coercion. Fascinating\n"
-      "indenting after an if creates the body, not brackets"
-      "Your first non-indented line terminates your if else. Also end if and else main statement with an :"
-      "Flow of Control")
+      "indenting after an if creates the body, not brackets\n"
+      "Your first non-indented line terminates your if else. Also end if and else main statement with an :\n"
+      "Flow of Control\n")
+
+print("if you put a ? after function it tells you about it (maybe)\n")
+
+print("def is calling soemthing a func\n"
+      "1 - def\n"
+      "2 - name in snake case\n"
+      "3 - parameter in parentheses\n"
+      "4 - body of func\n"
+      "5 - return\n"
+      
+      "Ex: def add_one(x):"
+      "         result = x+1"
+      "         return result")
+print("No need for () in if statements!")
 
