@@ -54,7 +54,7 @@ print(sum(arr))
 print(len(arr))
 
 
-def add_one(number):
+def add_one(x):
     result = x+1
     return result
 print(add_one(3))
